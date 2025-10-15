@@ -1,15 +1,80 @@
-<h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">I am a software engineering student.</h3>
+# Merve Güneş
 
-- 🔭 I’m currently working on **mobile**
+## Hakkımda
+Ben Merve Güneş, Ostim Teknik Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim.  
+Yazılım geliştirme sürecinde özellikle **mobil uygulama geliştirme (React Native)**, **frontend teknolojileri** ve **Linux ekosistemi** ile ilgileniyorum.  
+Kendimi modern teknolojiler, temiz kod prensipleri ve proje tabanlı öğrenme yöntemleriyle sürekli olarak geliştiriyorum.  
+Amacım, kullanıcı deneyimini ön planda tutan, sürdürülebilir ve etkili yazılım çözümleri üretmektir.
 
-- 🌱 I’m currently learning **javascript**
+---
 
-- 📫 How to reach me **mervegunes1454@gmail.com**
+## Teknolojiler ve Araçlar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Programlama Dilleri
+![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,java)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### Frontend Geliştirme
+![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,bootstrap,tailwind)
+
+### Mobil Geliştirme
+![Mobile](https://skillicons.dev/icons?i=react,reactnative,expo)
+
+### Backend ve API
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)
+
+### Versiyon Kontrol ve İşbirliği
+![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)
+
+### Araçlar ve Ortamlar
+![Tools](https://skillicons.dev/icons?i=vscode,linux,bash,postman,figma,docker)
+
+---
+
+## Üzerinde Çalıştığım Alanlar
+
+- React ve React Native ekosisteminde modern, performanslı uygulamalar geliştirme  
+- TypeScript ile ölçeklenebilir ve güvenli frontend projeleri oluşturma  
+- Linux ortamında verimli geliştirme alışkanlıkları kazanma  
+- API entegrasyonları, state yönetimi ve kullanıcı deneyimi odaklı arayüz tasarımı  
+- Açık kaynak projelere katkı sağlama ve proje yönetimi becerilerini geliştirme
+
+---
+
+## GitHub İstatistikleri
+
+![Merve Güneş GitHub Stats](https://github-readme-stats.vercel.app/api?username=merve-gunes&show_icons=true&theme=default&hide_border=false&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merve-gunes&layout=compact&theme=default)
+
+---
+
+## Eğitim
+
+**Ostim Teknik Üniversitesi**  
+_Yazılım Mühendisliği (Lisans) — 2. Sınıf_  
+2024 – Devam Ediyor  
+
+Eğitim sürecinde veri yapıları, algoritmalar, nesne yönelimli programlama ve yazılım mühendisliği prensiplerine odaklanıyorum.
+
+---
+
+## Hedeflerim
+
+- **Savunma sanayii şirketlerinde (ASELSAN, HAVELSAN, ROKETSAN)** yazılım geliştirme stajı yapmak  
+- React Native ve TypeScript konularında ileri seviye uzmanlaşmak  
+- Mobil uygulama geliştirerek Google Play Store veya App Store’da yayınlamak  
+- Linux sistemleri ve siber güvenlik alanında derin bilgi edinmek  
+- Açık kaynak katkılarıyla yazılım topluluğuna değer katmak  
+
+---
+
+## İletişim
+
+- **E-posta:** [mervegunes@example.com](mailto:mervegunes@example.com)  
+- **LinkedIn:** [linkedin.com/in/mervegunes](https://linkedin.com/in/mervegunes)  
+- **GitHub:** [github.com/mervegunes](https://github.com/mervegunes)
+
+---
+
+### Not
+Bu profil sürekli olarak güncellenmektedir.  
+Yeni teknolojiler öğrendikçe ve projeler geliştirdikçe, burada hem teknik hem de profesyonel gelişimimi paylaşmaya devam edeceğim. Sağlıcakla...
