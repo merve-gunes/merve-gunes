@@ -71,7 +71,7 @@ Eğitim sürecinde veri yapıları, algoritmalar, nesne yönelimli programlama v
 
 - **E-posta:** [mervegunes@example.com](mailto:mervegunes@example.com)  
 - **LinkedIn:** [linkedin.com/in/mervegunes](https://linkedin.com/in/mervegunes)  
-- **GitHub:** [github.com/mervegunes](https://github.com/mervegunes)
+- **GitHub:** [github.com/mervegunes](https://github.com/merve-gunes)
 
 ---
 
