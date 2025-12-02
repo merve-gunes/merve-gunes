@@ -67,14 +67,6 @@ Eğitim sürecinde veri yapıları, algoritmalar, nesne yönelimli programlama v
 
 ---
 
-## İletişim
-
-- **E-posta:**mervegunes1454@gmail.com
-- **LinkedIn:**https://www.linkedin.com/in/merve-güneş
-- **GitHub:**https://github.com/merve-gunes
-
----
-
 ### Not
 Bu profil sürekli olarak güncellenmektedir.  
 Yeni teknolojiler öğrendikçe ve projeler geliştirdikçe, burada hem teknik hem de profesyonel gelişimimi paylaşmaya devam edeceğim. 
