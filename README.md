@@ -12,4 +12,9 @@ Amacım, kullanıcı deneyimini ön planda tutan, sürdürülebilir ve etkili ya
 _Yazılım Mühendisliği (Lisans) — 2. Sınıf_  
 2024 – Devam Ediyor  
 
+## Kodlama Mücadeleleri & Algoritma
+
+Algoritma yeteneklerimi geliştirmek ve JavaScript pratiği yapmak için Codewars üzerinde aktif olarak problem çözüyorum.
+
+[![Codewars Stat](https://www.codewars.com/users/merve-gunes/badges/large)](https://www.codewars.com/users/merve-gunes)
 
