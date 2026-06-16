@@ -1,4 +1,4 @@
-# Merve Güneş
+# Merve Safa Güneş
 
 ## Hakkımda
 Ben Merve Güneş, Ostim Teknik Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim.  
